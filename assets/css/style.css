@@ -1,13 +1,7 @@
-4
-1 10 Code-Institute-Solutions/GoogleMaps
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-GoogleMaps/01-adding_the_map_element/assets/css/style.css
-23a1b91  on 30 Apr
-@nakitamccool nakitamccool Added fix for map not rendering issue
-@nakitamccool @aaronsnig501
-     
-411 lines (322 sloc)  6.58 KB
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+#map {min-height: 360px;}
 
 /*--------------------------------------------Colors*/
 
